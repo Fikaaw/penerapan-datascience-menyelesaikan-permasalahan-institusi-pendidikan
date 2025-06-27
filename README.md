@@ -83,7 +83,7 @@ Untuk dapat membantu institusi dalam memprediksi kemungkinan jika siswanya akan 
 
 ### Akses Online
 
-**🌐 Live Demo:** [Jaya Jaya Institute Student Prediction](https://jayajaya-institute-student-prediction.streamlit.app/) - Aplikasi prediksi dropout mahasiswa yang dapat diakses langsung melalui browser tanpa instalasi.
+**🌐 Live Demo:** [Jaya Institute Dropout Prediction](https://jaya-institution-dropout-prediction.streamlit.app/) - Aplikasi prediksi dropout mahasiswa yang dapat diakses langsung melalui browser tanpa instalasi.
 
 ### Menjalankan Secara Lokal
 
