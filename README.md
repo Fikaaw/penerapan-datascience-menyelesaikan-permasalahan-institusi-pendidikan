@@ -1,14 +1,12 @@
 # Menyelesaikan Permasalahan Institusi Pendidikan
 
 ## Business Understanding
-
-Jaya Jaya Institute merupakan institusi pendidikan tinggi yang telah beroperasi sejak tahun 2000 dan memiliki rekam jejak yang baik dalam menghasilkan lulusan berkualitas. Namun, institusi ini menghadapi permasalahan serius berupa tingginya angka siswa yang tidak menyelesaikan studi atau putus sekolah (dropout). Masalah ini menjadi ancaman besar bagi reputasi institusi, sehingga diperlukan upaya untuk mengidentifikasi siswa yang berpotensi dropout sejak dini agar dapat diberikan pendampingan khusus.
+Institut Jaya Jaya adalah lembaga pendidikan tinggi yang telah berdiri sejak tahun 2000 dengan track record yang baik dalam mencetak lulusan berkualitas. Akan tetapi, institusi tersebut kini dihadapkan pada tantangan signifikan berupa tingginya persentase mahasiswa yang tidak menuntaskan pendidikan atau mengalami putus studi (dropout). Situasi ini menjadi ancaman serius terhadap citra institusi, sehingga dibutuhkan mekanisme untuk mendeteksi mahasiswa yang berisiko dropout pada tahap awal agar dapat diberikan bimbingan yang tepat.
 
 ### Business Problem
+Institut Jaya Jaya menghadapi tantangan serius berupa tingginya angka putus kuliah mahasiswa, yang berpotensi merusak reputasi dan status akreditasi institusi serta mengurangi kepercayaan masyarakat terhadap kualitas pendidikan yang ditawarkan . Kurangnya kemampuan untuk mengidentifikasi mahasiswa yang berisiko putus kuliah sejak awal menghambat penerapan langkah-langkah pencegahan dan pendampingan yang dibutuhkan, sehingga mengancam keberlangsungan dan daya saing institusi di tengah kompetisi pendidikan yang semakin ketat.
 
-**Jaya Jaya Institute mengalami kendala signifikan akibat tingginya tingkat dropout mahasiswa, yang dapat berdampak negatif pada kredibilitas dan akreditasi institusi serta menurunkan kepercayaan publik terhadap standar pendidikan yang disediakan**. Keterbatasan dalam mendeteksi mahasiswa berisiko dropout secara dini menghalangi implementasi tindakan preventif dan bimbingan yang diperlukan, sehingga membahayakan eksistensi dan kompetitivitas institusi dalam persaingan pendidikan yang semakin kompetitif.
-
-**Oleh karena itu, sangat penting untuk dapat mengenali dan memproyeksikan mahasiswa yang berpotensi dropout seawal mungkin** supaya institusi dapat melakukan intervensi yang efektif untuk meningkatkan angka kelulusan.
+Dengan demikian, kemampuan untuk mengidentifikasi dan memprediksi mahasiswa yang berpotensi putus kuliah sedini mungkin menjadi sangat krusial agar institusi dapat melakukan tindakan intervensi yang tepat sasaran untuk meningkatkan tingkat kelulusan.
 
 ### Project Scope
 
@@ -48,7 +46,7 @@ Jaya Jaya Institute merupakan institusi pendidikan tinggi yang telah beroperasi 
 
 ## Business Dashboard
 
-[Jaya Jaya Institute Students Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Tableau Public - Jaya Jaya Institute Students Dashboard'), Dashboard Siswa Jaya Jaya Institute telah dirancang secara optimal untuk memberikan wawasan kepada tenaga pengajar dan pihak internal institusi mengenai tingkat dropout siswa yang mencapai lebih dari 30%. Dashboard ini juga dibuat dengan mempertimbangkan aksesibilitas untuk individu dengan gangguan penglihatan warna.
+[Students Dropout Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Looker Studio - Student Dropout Dashboard'), Dashboard Siswa Jaya Jaya Institute telah dirancang secara optimal untuk memberikan wawasan kepada tenaga pengajar dan pihak internal institusi mengenai tingkat dropout siswa yang mencapai lebih dari 30%. Dashboard ini juga dibuat dengan mempertimbangkan aksesibilitas untuk individu dengan gangguan penglihatan warna.
 
 **Dashboard Interaktif:** [Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26) - Dashboard interaktif untuk analisis dan prediksi dropout siswa menggunakan Looker Studio yang dapat diakses secara online.
 
