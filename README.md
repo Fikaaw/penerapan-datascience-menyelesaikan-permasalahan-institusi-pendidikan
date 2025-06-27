@@ -102,7 +102,6 @@ Untuk menjalankan sistem tersebut secara lokal, ikuti langkah-langkah berikut:
 3. **Akses Aplikasi**
    - Aplikasi akan terbuka secara otomatis di browser pada `http://localhost:8501`
    - Jika tidak terbuka otomatis, buka browser dan kunjungi alamat tersebut
-   - 
 
 4. **Menghentikan Aplikasi**
    - Tekan `Ctrl + C` di terminal untuk menghentikan server Streamlit
@@ -195,4 +194,4 @@ Berikut beberapa rekomendai yang dapat diambil oleh institusi untuk mengatasi pe
 - Menyediakan opsi program gap year disertai orientasi khusus untuk siswa yang kembali dari gap year, guna membantu dalam penyesuaian diri dengan lingkungan, teknologi, atau kurikulum yang mungkin telah berubah.
 - Mengadakan program bimbingan belajar khusus untuk siswa dengan nilai rendah, terutama yang berusia lebih tua dan yang sudah menikah.
 - Mendirikan pusat dukungan psikologis dan konseling bagi siswa yang mengalami tekanan finansial atau akademik.
-- Melakukan peninjauan dan pemantauan lebih lanjut terhadap siswa yang saat ini sedang terdaftar (enrolled), serta analisis mendalam terhadap pola dropout melalui dashboard yang telah dibangun menggunakan Looker Studio melalui [Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Jaya Jaya Institute Students Dropout Analysis Dashboard').
+- Melakukan peninjauan dan pemantauan lebih lanjut terhadap siswa yang saat ini sedang terdaftar (enrolled), serta analisis mendalam terhadap pola dropout melalui dashboard yang telah dibangun menggunakan Looker Studio melalui [Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Students Dropout Dashboard').
