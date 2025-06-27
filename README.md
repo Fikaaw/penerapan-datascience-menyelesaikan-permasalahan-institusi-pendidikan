@@ -136,7 +136,7 @@ Untuk menjalankan sistem tersebut secara lokal, ikuti langkah-langkah berikut:
 
 Selain sistem prediksi lokal, tersedia juga dashboard bisnis yang komprehensif untuk analisis pola dropout siswa. Dashboard ini menyediakan visualisasi interaktif dan insight mendalam tentang faktor-faktor yang mempengaruhi tingkat dropout.
 
-Dashboard dapat diakses secara langsung melalui Looker Studio pada tautan [Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Jaya Jaya Institute Students Dropout Analysis Dashboard').
+Dashboard dapat diakses secara langsung melalui Looker Studio pada tautan [Dashboard](https://lookerstudio.google.com/reporting/78f7064e-e021-4899-8b32-ce21ccde5f26 'Students Dropout Dashboard').
 
 ## Conclusion
 
